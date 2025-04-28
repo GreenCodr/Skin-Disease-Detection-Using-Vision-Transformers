@@ -22,7 +22,9 @@ Install the required dependencies using pip:
 ```bash
 pip install tensorflow keras scikit-learn numpy matplotlib
 
-##📈 Results
+
+
+## 📈 Results
 The Vision Transformer model demonstrated outstanding classification performance on the Skin Diseases Image Dataset:
 
 Training Accuracy: 98.04%
